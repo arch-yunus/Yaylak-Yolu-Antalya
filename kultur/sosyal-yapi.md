@@ -13,6 +13,17 @@ Aynı sülaleden gelen veya ortak çıkarlar doğrultusunda birleşen aileler gr
 ### 3. Boy ve Aşiret
 Obaların birleşmesiyle oluşan, ortak bir köken ve töre etrafında toplanan büyük yapılar (Örn: Tekeli, Sarıkeçili, Karakoyunlu). Bu yapılar, tarihsel olarak siyasi birer özne gibidir.
 
+#### Aşiret Örneği: Honamlılar
+Teke Yöresi ve Antalya çevresinde Honamlı aşireti, hayvancılık kültürünün en saf temsilcilerinden biridir. Özellikle kıl keçisi yetiştiriciliğindeki ustalıkları ve sarp dağlara uyum yetenekleriyle bilinirler. Honamlılar, bölgenin et ve süt üretimindeki kadim gücünü temsil ederler.
+
+## ⛺ Barınma Formları: Hareketin Mimarisi
+
+### 1. Kara Çadır (Kıl Çadır)
+Keçi kılından dokunan bu çadırlar, Yörük mimarisinin zirvesidir. Kışın dokusu sıkılaşarak su geçirmez hale gelir, yazın ise gözenekleri açılarak havalandırma sağlar. Sosyal hiyerarşi çadırın iç düzeninde (kadın tarafı, erkek tarafı, ocak başı) kendini gösterir.
+
+### 2. Alacık (Geçici Barınak)
+Özellikle çobanların veya kısa süreli konaklamaların barınağıdır. Birkaç esnek ağaç dalının çatılması ve üzerine çul/keçe örtülmesiyle oluşturulur. "Alacık", minimalizmin ve hıza dayalı yaşamın en sade formudur.
+
 ## Töre Hukuku ve Adalet
 Yörük toplumunda yazılı olmayan ancak sarsılmaz bir "Töre" hakimdir:
 *   **Misafir Hakkı:** Oba sınırlarına giren her yabancı, "Tanrı Misafiri"dir ve canı-malı törenin koruması altındadır.

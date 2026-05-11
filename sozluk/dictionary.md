@@ -1,28 +1,46 @@
-# Yörük Lugatı: Kadim Kelimeler
+# Yörük Lugatı: Kadim Kelimeler ve Kavramlar
 
-Bu bölüm, Antalya ve çevresindeki Yörük ağzında kullanılan, birçoğu unutulmaya yüz tutmuş kelimeleri, kavramları ve bu kelimelerin taşıdığı kültürel yükü içerir. Yörük ağzı, sadece bir dil sapması değil, doğayla iç içe geçmiş bir yaşamın teknik terminolojisidir.
+Yörük ağzı, Türkçenin kökenlerine sadık kalmış, Orta Asya’dan Anadolu’nun zirvelerine taşınmış bir ses mirasıdır. Bu lugat, Toroslar'daki günlük yaşamın, hayvancılığın ve doğa ile kurulan bağın teknik terminolojisidir.
 
-| Kelime | Anlamı | Kullanım Alanı |
+## 🐄 Hayvancılık ve Üretim Terimleri
+
+| Kelime | Anlamı | Notlar |
 | :--- | :--- | :--- |
-| **Göran** | Hayvanların dinlendiği gölgelik, serin yer. | Hayvancılık |
-| **Heybe** | Omuzda veya hayvan sırtında taşınan bölmeli torba. | Eşya |
-| **Öveç** | İki-üç yaşındaki erkek koyun. | Hayvancılık |
-| **Çul** | Kıl veya yünden dokunan kaba örtü, zemin yaygısı. | Dokuma |
-| **Alaca** | Karışık renkli, genellikle dokumalarda kullanılır. | Sanat/Dokuma |
-| **Davar** | Koyun ve keçi sürüsüne verilen genel ad. | Hayvancılık |
-| **Kışlak** | Kışın konaklanan sıcak yer, genellikle sahil kesimi. | Coğrafya |
-| **Yaylak** | Yazın serinlemek ve hayvan otlatmak için çıkılan yüksek yer. | Coğrafya |
-| **Istar** | Kilim dokuma tezgahı (genellikle dikey). | Dokuma |
-| **Kolaç** | Yörüklerin yaptığı bir çeşit ekmek/pişi. | Mutfak |
-| **Kirman** | Yün eğirmeye yarayan, elde çevrilen ahşap araç. | Zanaat |
-| **Tığ** | Dokuma ve örgüde kullanılan metal veya ağaç çubuk. | Zanaat |
-| **Beldar** | Yol gösteren, yolu bilen kişi (genellikle göçte). | Sosyal Yapı |
-| **Sayı** | Sürünün periyodik olarak kontrol edilmesi/sayılması. | Hayvancılık |
-| **Gebeş** | Karnı şişkin veya kısa boylu, tıknaz. | Betimleme |
-| **Pür** | Çam ve benzeri ağaçların iğne yapraklı dalları. | Doğa |
-| **Yunak** | Çamaşır yıkanan ortak alan veya su kenarı. | Günlük Yaşam |
-| **Sıracalı** | Hastalıklı veya zayıf görünen (genellikle hayvanlar için). | Hayvancılık |
-| **Deri** | Peynir ve yağ saklamak için kullanılan hayvan postu (Tulum). | Mutfak |
+| **Ağarantı** | Süt, yoğurt, peynir, çökelek ve tereyağı gibi süt ürünlerinin genel adı. | Yaşamın beyaz cevheri. |
+| **Ağız** | Yeni doğum yapmış hayvanın ilk 3-5 günlük koyu ve besleyici sütü. | Şifa niyetine tüketilir. |
+| **Öveç** | İki-üç yaşındaki erkek koyun. | Sürünün gelişim aşaması. |
+| **Sayı** | Sürünün periyodik olarak tek tek kontrol edilmesi ve sayılması işlemi. | Eksik hayvanın tespiti için hayati. |
+| **Sıracalı** | Hastalıklı, cılız veya zayıf düşmüş hayvan. | Özenli bakım gerektirir. |
+| **Eğrek** | Hayvanların sıcak saatlerde dinlendiği gölgelik ve serin alanlar. | Genellikle ulu ağaç dipleri. |
+| **Göran** | Hayvanların gece konakladığı veya topluca dinlendiği geniş alan. | Sosyal birleşme noktası. |
 
-## Kelime Hazinesini Genişletme
-Bu lugat, yerel ağızların korunması amacıyla sürekli güncellenmektedir. Her kelime, bir yaşanmışlığın ve bin yıllık bir birikimin hafıza kalesidir.
+## 🏡 Günlük Yaşam ve Eşya Terimleri
+
+| Kelime | Anlamı | Kullanım Bağlamı |
+| :--- | :--- | :--- |
+| **Alacık** | Çobanların geçici barınma için ağaç dalları ve çuldan yaptığı basit barınak. | Kara çadırın mütevazı kardeşi. |
+| **Babıç** | Ayakkabı, pabuç. | Günlük dilde yaygın kullanım. |
+| **Dastar** | Özel dokunmuş, işlemeli baş örtüsü. | Zarafet ve gelenek sembolü. |
+| **Heybe** | Omuzda veya hayvanın terkisinde taşınan iki gözlü torba. | Yol arkadaşı. |
+| **Istar** | Kilim dokunan dikey veya yatay dokuma tezgahı. | Zanaatın kalbi. |
+| **Kirman** | Yün eğirmek için kullanılan, elde çevrilen ahşap araç. | İpliğin doğuşu. |
+| **Sındı** | Makas. | Arkaik bir kullanım (Eski Türkçe: Sındu). |
+
+## 🏔️ Coğrafya ve Hareket Terimleri
+
+| Kelime | Anlamı | Felsefi Karşılığı |
+| :--- | :--- | :--- |
+| **Cılga** | İnsan ve hayvanların açtığı dar patika yol. | Doğanın damarı. |
+| **An** | Tarla veya yaylak sınırlarını belirleyen hat. | Mülkiyet değil, emanet sınırı. |
+| **Beldar** | Göç sırasında yolu bilen, oba halkına rehberlik eden kişi. | Liderlik ve bilgelik. |
+| **Kışlak** | Kışın konaklanan, denize yakın sıcak bölgeler. | Sığınak. |
+| **Yaylak** | Yazın çıkılan, serin ve bereketli yüksek platolar. | Kurtuluş ve ferahlık. |
+
+## 🗣️ Deyimler ve Yerel Ünlemler
+- **Voyn!:** Şaşkınlık, sitem veya birine seslenme amacıyla kullanılan, Teke Yöresi'ne has bir ünlem.
+- **Bisel:** Çok fazla, bolca ("Bisel süt aldık").
+- **Gıymık:** Küçük parça, ufak tefek.
+- **Voyvoylamak:** Birini pohpohlamak veya gereksiz yere övmek.
+
+---
+*Bu lugat, yaşayan bir hafızadır. Kelimeler unutulduğunda, o kelimenin temsil ettiği yaşam biçimi de solar. Bizim görevimiz, bu kelimeleri "hafıza kalesi"nde muhafaza etmektir.*
