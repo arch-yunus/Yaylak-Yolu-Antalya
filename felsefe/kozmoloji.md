@@ -1,27 +1,24 @@
-# Yörük Kozmolojisi: Döngüsel Zaman ve Gök Töre
+# Türkmen Kozmolojisi: Gök Töre ve Kut
 
-Yörük kozmolojisi, modernitenin doğrusal ve mekanik evren algısının aksine; doğa ile iç içe, döngüsel ve her şeyin birbiriyle derin bir bağ (simbiyoz) içinde olduğu kadim bir tasavvurdur. Bu kozmoloji, köklerini Orta Asya bozkır kültüründen alan "Gök Töre" ve "Kut" anlayışıyla şekillenmiştir.
+Türkmen-Yörük kozmolojisi, evreni bir yığın veya rastlantısal bir mekanizma olarak değil; belirli bir nizam (Töre) ve kutsal bir denge (Kut) üzerine inşa edilmiş canlı bir organizma olarak görür.
 
-## 1. Döngüsel Zaman Algısı (Mevsimlik Devir)
-Yörük için zaman, saatlerin ilerlemesi değil, tabiatın ritmidir. Zaman, "Yaylak" ve "Kışlak" arasında gidip gelen, bitmeyen bir devr-i daimdir.
-- **Ruz-ı Hızır (Yaz):** 6 Mayıs'ta (Hıdırellez) başlar, doğanın canlanışını ve üretimi temsil eder.
-- **Ruz-ı Kasım (Kış):** 8 Kasım'da başlar, içe çekilmeyi, korunmayı ve doğanın uykusunu temsil eder.
+## 1. Döngüsel Zaman: Mevsimlerin Nabzı
+Doğrusal zaman algısı (geçmiş-şimdi-gelecek), yerleşik nizamın bir kurgusudur. Yörük için zaman döngüseldir.
+*   **Devr-i Daim:** Yaylak ve Kışlak arasındaki gidip gelme, evrenin nefes alışıdır. Her kış bir içe çekilme, her bahar (Hıdırellez) bir yeniden doğuştur. Bu döngüsellik, Yörük'ün felaketler karşısında bile "bu da geçer" diyerek sarsılmaz bir sabır ve dinamizm geliştirmesini sağlar.
 
-Bu döngüsel yapı, Yörük'ün hayata karşı "sabırlı ve dirençli" bir duruş sergilemesini sağlar. Hiçbir kış sonsuz değildir, her inişin bir yokuşu (yaylası) vardır.
+## 2. Gök Töre: Kozmik Kanun
+Evrenin nizamına "Gök Töre" denir. 
+*   **Gökyüzü Tasavvuru:** Gök, sadece bir boşluk değil; bilgeliğin, adaletin ve sonsuzluğun kaynağıdır. Yörük çadırının orta direği, gökyüzünü tutan kozmik ekseni temsil eder.
+*   **Denge İlkesi:** Yörük felsefesinde en büyük suç (günah), kozmik dengeyi bozmaktır. İhtiyacından fazlasını doğadan koparmak, suyun yolunu haksızca değiştirmek veya bir ağacı sebepsizce kesmek; Gök Töre'nin ihlalidir ve obaya uğursuzluk getirir.
 
-## 2. Gök Töre ve Kozmik Düzen
-Kozmos (evren), rastgele bir yığın değil, belirli bir nizam (töre) içindedir. Bu düzene "Gök Töre" denir.
-- **Gök:** Yüceliği, sonsuzluğu ve ruhsal rehberliği temsil eder.
-- **Yer:** Bereketin, ana kucağının ve varoluşun fiziksel zeminidir.
-- **Denge:** Yörük felsefesinde en büyük günah, bu kozmik dengeyi bozmaktır. İhtiyacından fazlasını doğadan almak, suyun yolunu haksız yere değiştirmek veya bir ağaca sebepsiz yere zarar vermek, törenin ihlalidir.
-
-## 3. Kut ve Manevi Yetkinlik
-Yörük inanç sisteminde "Kut", gökyüzünden gelen ilahi bir bağış, yaşama sevinci ve yönetme/idame ettirme gücüdür. Ancak Kut, sadece bir lütuf değil, büyük bir sorumluluktur. Doğayla uyumlu yaşayan, adaletli olan ve obasını koruyan kişi Kut'ludur. Kut'un kaybedilmesi, dengenin bozulması ve talihsizliğin başlaması demektir.
+## 3. Kut: Yaşamsal Enerji ve Bereket
+"Kut", Gök'ten gelen yaşama sevinci, yönetim kabiliyeti ve berekettir. 
+*   **Kut'un Sosyolojisi:** Kut sahibi olan oba lideri (Bey) veya hane reisi, adaletli olduğu sürece bu gücü korur. Adaletin bittiği yerde Kut uçar gider. Yörüklerin bin yıl boyunca asimile olmadan hayatta kalmalarını sağlayan, içlerindeki bu "Kut" yani yaşamsal dinamizm inancıdır.
 
 ## 4. Halk İslamı ve Kadim Sentez
-Toros Yörüklerinin kozmolojisi, İslamiyet ile Orta Asya'dan gelen kadim Türk inançlarının (Şamanizm izleri, Atalar kültü, Dağ-Su kültü) muazzam bir sentezidir. 
-- **Ziyaret Fenomeni:** Dağların zirvelerindeki "erenler" veya ulu ağaçlar, fiziksel dünya ile manevi dünya arasındaki kapılar (eşikler) olarak görülür.
-- **Canlı Doğa:** Her pınarın bir "iyesinin" (koruyucusunun) olduğuna inanılması, ekolojik bilincin manevi bir temel üzerine inşa edilmesini sağlar.
+Toroslar'daki kozmoloji; İslam'ın özü ile Orta Asya'dan taşınan kadim Türk inançlarının (Atalar kültü, Dağ-Su kültü) muazzam bir sentezidir. 
+*   **Erenler ve Eşikler:** Dağların zirvelerindeki "Yatırlar" veya ulu ağaçlar, fiziksel dünya ile manevi dünya arasındaki "Eşik" noktalarıdır. Yörük, bu noktalara saygı göstererek evrenin sadece görünen kısımdan ibaret olmadığını kabul eder.
+*   **Canlı Tabiat:** Her pınarın, her kayanın bir "İyesi" (ruhu) olduğu inancı, doğanın sömürülmesini engelleyen en güçlü manevi kalkandır.
 
 ---
-*Bu doküman, Toroslar'ın sessiz zirvelerinde yaşayan bir dünya görüşünün akademik kaydıdır. Hakikat, yolun kendisindedir.*
+*Türkmen kozmolojisi, insanı evrenin merkezine değil, onun en nazik ve sorumlu parçası olarak konumlandırır. Gök Töre'ye uymak, hakikate yürümektir.*
