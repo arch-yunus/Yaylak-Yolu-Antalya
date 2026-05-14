@@ -1,4 +1,4 @@
-# 🏔️ Yaylak-Yolu: Anadolu'nun Tarihsel Kodları ve Türkmen-Yörük Külliyatı
+# 🏛️ Turkmenya: Oğuz-Yörük Medeniyet Külliyatı
 
 ![Yaylak Yolu Banner](assets/banner_new.png)
 
@@ -8,7 +8,7 @@
 
 ## 🏛️ Vizyon: Bin Yıllık Dinamizm ve Ontolojik Bağımsızlık
 
-"Yaylak-Yolu", Balkanlar'dan Kırım'a, Halep'ten İran'a ve Toroslar'ın kekik kokulu zirvelerine uzanan devasa bir coğrafyaya yayılmış **Oğuz-Türkmen** ruhunun ontolojik manifestosudur. Bu çalışma, Yörük ve Türkmen kültürünü sadece folklorik bir öğe veya geçmişin bir kalıntısı olarak değil; modernitenin tekdüzeleştirici etkisine karşı duran, yaşayan bir **Medeniyet Prototipi** olarak ele alır.
+"Turkmenya", Balkanlar'dan Kırım'a, Halep'ten İran'a ve Toroslar'ın kekik kokulu zirvelerine uzanan devasa bir coğrafyaya yayılmış **Oğuz-Türkmen** ruhunun ontolojik manifestosudur. Bu çalışma, Yörük ve Türkmen kültürünü sadece folklorik bir öğe veya geçmişin bir kalıntısı olarak değil; modernitenin tekdüzeleştirici etkisine karşı duran, yaşayan bir **Medeniyet Prototipi** olarak ele alır.
 
 Anadolu'nun kalıcı olarak Türkleşmesi, köylere yerleşmekle değil, askerlikten ve göçebelikten gelen o eşsiz "dinamizm" sayesinde **dağları tutmakla** mümkün olmuştur. Hedefimiz, bu kadim kültürün köklerini akademik bir titizlikle deşifre etmek; şenlikler ve halkın sahip çıkışıyla, tıpkı İngilizlerin Shakespeare'e veya İranlıların Firdevsi'ye sahip çıkması gibi akademik dünyayı bu alanı incelemeye teşvik etmektir.
 
